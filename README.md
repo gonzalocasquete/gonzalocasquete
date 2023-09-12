@@ -1,6 +1,6 @@
 ### Hi, I'm Gonzalo👋👨‍💻
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gonzalocasquete)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-casquete-rodr%C3%ADguez-7b116127b/)
+[![Linkedin](https://www.linkedin.com/in/gonzalo-casquete-rodr%C3%ADguez-7b116127b)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gonzalocasqueterodriguez@gmail.com)
 
 ````js
