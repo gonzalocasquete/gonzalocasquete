@@ -14,14 +14,14 @@ const gonzalocasquete = {
 Welcome to my GitHub page! I'm Gonzalo, and I've completed my engineering degree in Huelva!
 
 ### 🌱 Things I am currently working on: 
-- Taking online courses about Frontend and Backned.
+- Taking online courses in Frontend and Backend development.
 - Learning new tools and frameworks
 
 #### :muscle: Things I am challenging myself with:
-- Looking for the best programers and learn from them
-- Improving my CV with some education apart from university
-- Coding at least 4 hours a day
-- Exercising 3 days a week
+- Seeking out the best programmers to learn from.
+- Enhancing my CV with additional education beyond university.
+- Dedicating at least 4 hours a day to coding.
+- Engaging in physical exercise 3 days a week.
 
 #### :computer: Programming languages and tools: 
 <p>
