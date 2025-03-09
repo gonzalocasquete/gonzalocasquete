@@ -4,7 +4,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gonzalocasqueterodriguez@gmail.com)
 
 ### About me
-https://gonzalocasquete.github.io/mi-portfolio/
 
 ````js
 const gonzalocasquete = {
